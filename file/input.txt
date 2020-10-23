@@ -1,5 +1,0 @@
-
-{"username":"小王","password":"1234561","sex":"女","age":"50","hobby":"film"}
-{"username":"小王","password":"1234561","sex":"女","age":"50","hobby":"film"}
-{"username":"小AAA","password":"256856","sex":"女","age":"25","hobby":"球"}
-{"username":"bbbbb","password":"256856","sex":"女","age":"25","hobby":"球"}
