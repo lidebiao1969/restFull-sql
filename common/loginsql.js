@@ -1,4 +1,4 @@
-﻿//登录 注册
+//登录 注册
 const express = require("express");
 const router = express.Router();
 var jwt = require("jsonwebtoken");
@@ -211,7 +211,7 @@ var connection = require("../mysql/db");
 
 //准备注册数据
 		
-	app.post("/user/wreg", (req, res) => {
+	app.post("/wreg", (req, res) => {
 				var name = req.body.username;
 				var passwd = req.body.password;
 				var sex = req.body.sex;
